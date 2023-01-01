@@ -3,3 +3,4 @@ Business Problem:The Organisation for Economic Co-operation and Development is c
 Tool used : MS Excel
 Functions Applied : Various functions of ms excel is used in this project like collecting data from different sheets using vlookups , different statistical methods to get insights ( mean , mode , standard deviation , variance etc), creating pivot tables, plotting different graphs for visulalizaton etc
 Conclusion: The conclusion is in the form of a PPT
+Raw data- (https://docs.google.com/spreadsheets/d/1wb8GHTI2mOvnlCAgZqB4SM8EnhYt56TI/edit?usp=share_link&ouid=108192787579882014661&rtpof=true&sd=true)
